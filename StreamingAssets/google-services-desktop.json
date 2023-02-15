@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "124431317073",
+    "firebase_url": "https://pelago-cetsa-game-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pelago-cetsa-game",
+    "storage_bucket": "pelago-cetsa-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124431317073:android:07de2a2d2327c96c772070",
+        "android_client_info": {
+          "package_name": "com.Pelago.CetsaGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124431317073-cr0tgnstioj2knsjje1vjhstd00aq25s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAkMWBSU3bcpRelaw9VIyJI6vObrEPSV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124431317073-cr0tgnstioj2knsjje1vjhstd00aq25s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124431317073-6ruak2l06shch0bsuu9418ranph4hcec.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.defaultCompany.Tilting"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124431317073:android:5729213d5fd8b5dd772070",
+        "android_client_info": {
+          "package_name": "com.defaultCompany.Tilting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124431317073-cr0tgnstioj2knsjje1vjhstd00aq25s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAkMWBSU3bcpRelaw9VIyJI6vObrEPSV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124431317073-cr0tgnstioj2knsjje1vjhstd00aq25s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124431317073-6ruak2l06shch0bsuu9418ranph4hcec.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.defaultCompany.Tilting"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
